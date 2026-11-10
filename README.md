@@ -7,6 +7,6 @@ I'm Oliver, a game programmer based out of Sydney. I make games in a few differe
 - [LinkedIn](https://linkedin.com/hebedebe)
 
 # Skills
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cpluscplus&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=plastic&logo=cpluscplus&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=plastic&logo=godotengine&logoColor=white)
