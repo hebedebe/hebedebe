@@ -8,5 +8,7 @@ I'm Oliver, a game programmer based out of Sydney. I make games in a few differe
 
 # Skills
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=plastic&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/bdage/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=plastic&logo=cpluscplus&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=plastic&logo=godotengine&logoColor=white)
