@@ -3,7 +3,7 @@ I'm Oliver, a game programmer based out of Sydney. I make games in a few differe
 
 # Links
 - [Portfolio](https://hebedebe.github.io)
-- ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+- ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)
 - [LinkedIn](https://linkedin.com/hebedebe)
 
 # Skills
