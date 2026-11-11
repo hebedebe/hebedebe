@@ -3,7 +3,7 @@ I'm Oliver, a game programmer based out of Sydney. I make games in a few differe
 I mostly like to make surreal games, but I like to branch out into other genres like horror from time to time.
 
 # Feature!!
-You can play my current favourite game [here]((https://hebedebe.github.io/fish_climb)! ([Fish Climb](https://hebedebe.github.io/fish_climb))
+You can play my current favourite game [here](https://hebedebe.github.io/fish_climb)! ([Fish Climb](https://hebedebe.github.io/fish_climb))
 
 # Links
 - [Portfolio](https://hebedebe.github.io)
